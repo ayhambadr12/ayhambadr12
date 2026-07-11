@@ -21,7 +21,7 @@ Focused on quantum-enhanced ML for real world problems in healthcare and drug di
 ### 📌 Featured Projects
 - **[Quantum-Parkinson-Classification](https://github.com/ayhambadr12/Quantum-Parkinson-Classification)** — Source code for a paper on quantum kernel classification of Parkinson's Disease
 - **[Qbind-analytics](https://github.com/ayhambadr12/Qbind-analytics)** — Quantum Computing as a Service for pharmaceutical drug discovery, using VQE for molecular ground state energy calculations with Qiskit Nature
-- **[Hospitalsystem](https://github.com/ayhambadr12/Hospitalsystem)** — *(add a one-line description here)*
+- **[Hospitalsystem](https://github.com/ayhambadr12/Hospitalsystem)** — *Fornt end and gui for this system *
 
 ### 📫 Reach me
 📧 ayhambadr2006@gmail.com · 📍 Alexandria, Egypt
